@@ -1,7 +1,7 @@
 ## 文献阅读（机器学习等）数学基础
 
 <center>Yuanshuai</center>
-
+正常显示版见CSDN博客：https://blog.csdn.net/zysps1/article/details/106407778
 [TOC]
 
 ### 一、线性代数
